@@ -9,10 +9,10 @@ Trabalho acadêmico da disciplina **Redes de Computadores**, da **Universidade F
 
 ## Arquivos do projeto
 
-- [Relatório acadêmico](Projeto%20Cooperativa%20Triticola%20MDT%20UFSM.docx) — descrição do cenário, planta, equipamentos, arquitetura de rede, sensoriamento, automação e referências.
-- [Texto-base em Markdown](projeto_cooperativa_triticola.md) — versão editável do conteúdo técnico.
+- [Relatório acadêmico](Projeto%20Cooperativa%20Triticola.pdf) — descrição do cenário, planta, equipamentos, arquitetura de rede, sensoriamento, automação e referências.
 - [Planta ilustrativa](planta_cooperativa.svg) — desenho conceitual das áreas físicas e da infraestrutura proposta, sem escala construtiva.
 - `cooperativa tritícola.pkt` — arquivo de demonstração no Cisco Packet Tracer. A topologia lógica com equipamentos e enlaces ainda precisa ser montada no Packet Tracer.
+- slides**
 
 ## Escopo
 
